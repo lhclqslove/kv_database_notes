@@ -11,9 +11,23 @@
             "id": "96bdabafd65f9008",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20221018203734.png"
+                "file": "raft协议详解.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c0fb16ff2d74a5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git命令学习.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -29,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20221018203734.png",
+                "file": "git命令学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20221018203734.png",
+                "file": "git命令学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20221018203734.png"
+                "file": "git命令学习.md"
               }
             }
           }
@@ -149,11 +164,11 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "96bdabafd65f9008",
+  "active": "6c0fb16ff2d74a5c",
   "lastOpenFiles": [
-    "Pasted image 20221018211542.png",
-    "Pasted image 20221018203734.png",
+    "raft协议详解.md",
     "Paxos算法详解.md",
-    "raft协议详解.md"
+    "Pasted image 20221018203734.png",
+    "Pasted image 20221018211542.png"
   ]
 }
